@@ -67,3 +67,8 @@ First Header | Second Header
 -------------|--------------
 Content Cell | Content Cell
 Content Cell | Content Cell
+<<<<<<< HEAD
+=======
+
+bbbbb
+>>>>>>> new_branch
