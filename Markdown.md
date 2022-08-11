@@ -88,4 +88,4 @@ Content Cell | Content Cell
 
    git pull
 
-   
+   remote
